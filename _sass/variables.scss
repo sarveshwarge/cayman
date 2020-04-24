@@ -4,13 +4,13 @@ $medium-breakpoint: 42em !default;
 
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #159957 !default;
-$header-bg-color-secondary: #155799 !default;
+$header-bg-color: #c0441b !default;
+$header-bg-color-secondary: #ffc100 !default;
 
 // Text
-$section-headings-color: #159957 !default;
+$section-headings-color: #c0441b !default;
 $body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
+$body-link-color: #c0441b !default;
 $blockquote-text-color: #819198 !default;
 
 // Code
@@ -21,3 +21,5 @@ $code-text-color: #567482 !default;
 $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
+
+$base-font-family: 'Yatra One', cursive;
